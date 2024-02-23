@@ -26,4 +26,4 @@ Native to: E. Canada to Central & E. U.S.A. -rhizomatous geophyte, grows primari
 
 ### There is a clear morphological differentiation between I. setosa and the two other species I. virginica, and I. versicolor. - I. setosa can easily be differentiated from the two other species due to a significantly smaller petal size. I. versicolor inhabit intermediate features of I. setosa, and I. virginica, but are closer to the latter, with which it overlaps in all of the measurements.
 
-### By looking at the petals alone, it is possible to distinguish the majority of K. virginica and K. veriscolor plants. However, due to overlap, it will create a significant classification error. By including more features in the classification, the accuracy can be improved.
+### By looking at the petals alone, it is possible to distinguish the majority of I. virginica and I. veriscolor plants. However, due to overlap, it will create a significant classification error. By including more features in the classification, the accuracy can be improved.
