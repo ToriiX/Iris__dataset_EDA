@@ -1,8 +1,8 @@
-## Flower Classification EDA and PCA - Iris Extended Dataset
+# Flower Classification EDA and PCA - Iris Extended Dataset
 
-# In this project I explored species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
+## In this project I explored species feature variation within (intra) and between (inter) three species of Iris found in North America. The results can be used for species classification and further development of Machine Learning models for classification.
 
-# Technical skills: Data Exploration, PCA, and Visualization
+## Technical skills: Data Exploration, PCA, and Visualization
 
 Background on the genus:
 
